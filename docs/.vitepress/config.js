@@ -44,6 +44,13 @@ const blogRoutes = [
       { text: 'jenkins与gitlab自动化部署', link: '/blog/jenkins/jenkins-and-gitlab' },
     ]
   },
+  {
+    text: 'micro-app',
+    collapsed: false,
+    items: [
+      { text: '微前端micro-app搭建流程', link: '/blog/micro-app/micro-app-build' },
+    ]
+  },
 ]
 
 const comicRoutes = [
